@@ -10,7 +10,7 @@
   * @param    array   $options set rquired options for login to the API
   * @return   object
   * @author		Sandro Rümmler <kontakt@sandro-ruemmler.de>
-  * @version	0.2.1 30/05/2020
+  * @version	0.2.2 30/05/2020
   */
 
 class PinAg_EConnectApi

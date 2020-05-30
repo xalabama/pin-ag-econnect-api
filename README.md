@@ -1,5 +1,5 @@
 # PIN AG - eConnect API
-*Version: 0.2.1*
+*Version: 0.2.2*
 
 API from PIN AG for creating and sending e-letters
 
