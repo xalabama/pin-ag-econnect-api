@@ -24,6 +24,7 @@ If successful, the parameter `portalProcessJobId` is returned as `result` in the
 
 ```php
 $prepareProcessResponse = $EConnectApi->prepareProcess();
+$portalProcessJobId     = $prepareProcessResponse['result];
 ```
 
 If successful, the following array is output with a similar value
