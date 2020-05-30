@@ -7,10 +7,10 @@
   * PIN AG will normally provide you with the API access data on request.
   * For further information, please read the documentation or visit the PIN AG website.
   *
-  * @param    array $options set rquired options for login to the API
+  * @param    array   $options set rquired options for login to the API
   * @return   object
   * @author		Sandro Rümmler <kontakt@sandro-ruemmler.de>
-  * @version	0.1.0 28/05/2020 15:57
+  * @version	0.2.1 30/05/2020
   */
 
 class PinAg_EConnectApi
